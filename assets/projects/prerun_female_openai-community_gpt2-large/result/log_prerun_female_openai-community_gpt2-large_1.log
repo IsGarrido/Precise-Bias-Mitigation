@@ -1,0 +1,1050 @@
+2024-07-23 12:21:44,541 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:21:44,546 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:22:45,886 - PrintLogger - INFO - VRAM used by the model: 3061.31 MB
+2024-07-23 12:22:45,897 - PrintLogger - INFO - Running PreRun for openai-community/gpt2-large with 36 layers and 1280 neurons. Project is /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large
+2024-07-23 12:22:51,567 - PrintLogger - INFO - Running PreRun for openai-community/gpt2-large for all layers. Project is /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large. only_layer: 1
+2024-07-23 12:22:51,569 - PrintLogger - INFO - Running PreRun for all layers of openai-community/gpt2-large for layers [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35] run name PreRun.Layer.openai-community_gpt2-large.all_layers.json
+2024-07-23 12:22:51,571 - PrintLogger - INFO - Running PreRun for layer 0 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_0.json
+2024-07-23 12:22:51,573 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:22:51,575 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:23:44,798 - PrintLogger - INFO - Eval loss: 2.514171789586544
+2024-07-23 12:23:55,039 - PrintLogger - INFO - Eval loss: 2.726173530022303
+2024-07-23 12:24:14,615 - PrintLogger - INFO - Eval loss: 2.6201726598044237
+2024-07-23 12:24:14,626 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_0.json
+2024-07-23 12:24:14,628 - PrintLogger - INFO - Running PreRun for layer 1 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_1.json
+2024-07-23 12:24:14,631 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:24:14,634 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:24:56,641 - PrintLogger - INFO - Eval loss: 2.3062647864222527
+2024-07-23 12:25:04,424 - PrintLogger - INFO - Eval loss: 2.5635924652218818
+2024-07-23 12:25:17,481 - PrintLogger - INFO - Eval loss: 2.4349286258220673
+2024-07-23 12:25:17,512 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_1.json
+2024-07-23 12:25:17,520 - PrintLogger - INFO - Running PreRun for layer 2 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_2.json
+2024-07-23 12:25:17,526 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:25:17,529 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:26:11,741 - PrintLogger - INFO - Eval loss: 2.1480189099907876
+2024-07-23 12:26:19,658 - PrintLogger - INFO - Eval loss: 2.428869533538818
+2024-07-23 12:26:35,272 - PrintLogger - INFO - Eval loss: 2.288444221764803
+2024-07-23 12:26:35,298 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_2.json
+2024-07-23 12:26:35,304 - PrintLogger - INFO - Running PreRun for layer 3 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_3.json
+2024-07-23 12:26:35,308 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:26:35,313 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:27:12,023 - PrintLogger - INFO - Eval loss: 2.102360185980797
+2024-07-23 12:27:19,920 - PrintLogger - INFO - Eval loss: 2.3903619915246965
+2024-07-23 12:27:35,303 - PrintLogger - INFO - Eval loss: 2.2463610887527468
+2024-07-23 12:27:35,320 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_3.json
+2024-07-23 12:27:35,323 - PrintLogger - INFO - Running PreRun for layer 4 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_4.json
+2024-07-23 12:27:35,352 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:27:35,355 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:28:17,191 - PrintLogger - INFO - Eval loss: 1.9769048124551774
+2024-07-23 12:28:24,881 - PrintLogger - INFO - Eval loss: 2.2940848847230275
+2024-07-23 12:28:40,258 - PrintLogger - INFO - Eval loss: 2.1354948485891025
+2024-07-23 12:28:40,265 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_4.json
+2024-07-23 12:28:40,268 - PrintLogger - INFO - Running PreRun for layer 5 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_5.json
+2024-07-23 12:28:40,271 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:28:40,273 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:29:21,713 - PrintLogger - INFO - Eval loss: 1.767495925972859
+2024-07-23 12:29:29,399 - PrintLogger - INFO - Eval loss: 2.2318993841608363
+2024-07-23 12:29:43,566 - PrintLogger - INFO - Eval loss: 1.9996976550668477
+2024-07-23 12:29:43,573 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_5.json
+2024-07-23 12:29:43,578 - PrintLogger - INFO - Running PreRun for layer 6 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_6.json
+2024-07-23 12:29:43,600 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:29:43,637 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:30:24,969 - PrintLogger - INFO - Eval loss: 1.6362939390043418
+2024-07-23 12:30:32,656 - PrintLogger - INFO - Eval loss: 2.067468253274759
+2024-07-23 12:30:45,047 - PrintLogger - INFO - Eval loss: 1.8518810961395502
+2024-07-23 12:30:45,059 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_6.json
+2024-07-23 12:30:45,064 - PrintLogger - INFO - Running PreRun for layer 7 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_7.json
+2024-07-23 12:30:45,068 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:30:45,071 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:31:23,750 - PrintLogger - INFO - Eval loss: 1.6179277437428634
+2024-07-23 12:31:31,438 - PrintLogger - INFO - Eval loss: 2.0737770328919094
+2024-07-23 12:31:43,908 - PrintLogger - INFO - Eval loss: 1.8458523883173863
+2024-07-23 12:31:43,921 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_7.json
+2024-07-23 12:31:43,928 - PrintLogger - INFO - Running PreRun for layer 8 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_8.json
+2024-07-23 12:31:43,936 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:31:43,941 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:32:19,074 - PrintLogger - INFO - Eval loss: 1.5865169768532117
+2024-07-23 12:32:26,740 - PrintLogger - INFO - Eval loss: 2.1314736728866897
+2024-07-23 12:32:39,947 - PrintLogger - INFO - Eval loss: 1.8589953248699507
+2024-07-23 12:32:39,970 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_8.json
+2024-07-23 12:32:39,974 - PrintLogger - INFO - Running PreRun for layer 9 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_9.json
+2024-07-23 12:32:39,979 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:32:39,984 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:33:18,219 - PrintLogger - INFO - Eval loss: 1.467905092984438
+2024-07-23 12:33:25,892 - PrintLogger - INFO - Eval loss: 2.2450719927748044
+2024-07-23 12:33:39,851 - PrintLogger - INFO - Eval loss: 1.8564885428796212
+2024-07-23 12:33:39,862 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_9.json
+2024-07-23 12:33:39,866 - PrintLogger - INFO - Running PreRun for layer 10 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_10.json
+2024-07-23 12:33:39,871 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:33:39,873 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:34:22,037 - PrintLogger - INFO - Eval loss: 1.4943803059558074
+2024-07-23 12:34:29,702 - PrintLogger - INFO - Eval loss: 2.118512491881847
+2024-07-23 12:34:42,852 - PrintLogger - INFO - Eval loss: 1.8064463989188273
+2024-07-23 12:34:42,863 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_10.json
+2024-07-23 12:34:42,867 - PrintLogger - INFO - Running PreRun for layer 11 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_11.json
+2024-07-23 12:34:42,870 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:34:42,872 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:35:33,530 - PrintLogger - INFO - Eval loss: 1.4763222018877664
+2024-07-23 12:35:39,976 - PrintLogger - INFO - Eval loss: 2.1412791088223457
+2024-07-23 12:35:52,454 - PrintLogger - INFO - Eval loss: 1.8088006553550562
+2024-07-23 12:35:52,471 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_11.json
+2024-07-23 12:35:52,473 - PrintLogger - INFO - Running PreRun for layer 12 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_12.json
+2024-07-23 12:35:52,478 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:35:52,481 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:36:46,902 - PrintLogger - INFO - Eval loss: 1.4696440567572913
+2024-07-23 12:36:54,577 - PrintLogger - INFO - Eval loss: 2.183820098141829
+2024-07-23 12:37:08,354 - PrintLogger - INFO - Eval loss: 1.8267320774495601
+2024-07-23 12:37:08,368 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_12.json
+2024-07-23 12:37:08,373 - PrintLogger - INFO - Running PreRun for layer 13 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_13.json
+2024-07-23 12:37:08,376 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:37:08,379 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:37:43,064 - PrintLogger - INFO - Eval loss: 1.5302943222224712
+2024-07-23 12:37:50,749 - PrintLogger - INFO - Eval loss: 2.1293366382519405
+2024-07-23 12:38:04,518 - PrintLogger - INFO - Eval loss: 1.8298154802372057
+2024-07-23 12:38:04,549 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_13.json
+2024-07-23 12:38:04,559 - PrintLogger - INFO - Running PreRun for layer 14 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_14.json
+2024-07-23 12:38:04,567 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:38:04,574 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:38:46,804 - PrintLogger - INFO - Eval loss: 1.519558390478293
+2024-07-23 12:38:54,498 - PrintLogger - INFO - Eval loss: 2.2431192666292192
+2024-07-23 12:39:08,376 - PrintLogger - INFO - Eval loss: 1.881338828553756
+2024-07-23 12:39:08,407 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_14.json
+2024-07-23 12:39:08,416 - PrintLogger - INFO - Running PreRun for layer 15 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_15.json
+2024-07-23 12:39:08,426 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:39:08,431 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:39:43,656 - PrintLogger - INFO - Eval loss: 1.5385660956303278
+2024-07-23 12:39:51,335 - PrintLogger - INFO - Eval loss: 2.190850884715716
+2024-07-23 12:40:06,719 - PrintLogger - INFO - Eval loss: 1.864708490173022
+2024-07-23 12:40:06,742 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_15.json
+2024-07-23 12:40:06,749 - PrintLogger - INFO - Running PreRun for layer 16 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_16.json
+2024-07-23 12:40:06,757 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:40:06,763 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:40:59,687 - PrintLogger - INFO - Eval loss: 1.4142201530436675
+2024-07-23 12:41:07,373 - PrintLogger - INFO - Eval loss: 2.281763692200184
+2024-07-23 12:41:22,710 - PrintLogger - INFO - Eval loss: 1.8479919226219257
+2024-07-23 12:41:22,762 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_16.json
+2024-07-23 12:41:22,765 - PrintLogger - INFO - Running PreRun for layer 17 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_17.json
+2024-07-23 12:41:22,768 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:41:22,770 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:42:21,581 - PrintLogger - INFO - Eval loss: 1.4168034796913465
+2024-07-23 12:42:29,252 - PrintLogger - INFO - Eval loss: 2.158974027633667
+2024-07-23 12:42:44,599 - PrintLogger - INFO - Eval loss: 1.7878887536625068
+2024-07-23 12:42:44,606 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_17.json
+2024-07-23 12:42:44,608 - PrintLogger - INFO - Running PreRun for layer 18 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_18.json
+2024-07-23 12:42:44,610 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:42:44,612 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:43:37,786 - PrintLogger - INFO - Eval loss: 1.366730506469806
+2024-07-23 12:43:45,453 - PrintLogger - INFO - Eval loss: 2.189770788451036
+2024-07-23 12:44:00,797 - PrintLogger - INFO - Eval loss: 1.778250647460421
+2024-07-23 12:44:00,827 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_18.json
+2024-07-23 12:44:00,829 - PrintLogger - INFO - Running PreRun for layer 19 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_19.json
+2024-07-23 12:44:00,831 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:44:00,833 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:44:57,324 - PrintLogger - INFO - Eval loss: 1.426929989953836
+2024-07-23 12:45:04,999 - PrintLogger - INFO - Eval loss: 2.249893408020337
+2024-07-23 12:45:20,359 - PrintLogger - INFO - Eval loss: 1.8384116989870867
+2024-07-23 12:45:20,364 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_19.json
+2024-07-23 12:45:20,367 - PrintLogger - INFO - Running PreRun for layer 20 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_20.json
+2024-07-23 12:45:20,371 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:45:20,373 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:46:05,981 - PrintLogger - INFO - Eval loss: 1.5598748656610648
+2024-07-23 12:46:13,667 - PrintLogger - INFO - Eval loss: 2.6103621845444045
+2024-07-23 12:46:29,029 - PrintLogger - INFO - Eval loss: 2.0851185251027347
+2024-07-23 12:46:29,046 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_20.json
+2024-07-23 12:46:29,051 - PrintLogger - INFO - Running PreRun for layer 21 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_21.json
+2024-07-23 12:46:29,056 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:46:29,061 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:47:12,176 - PrintLogger - INFO - Eval loss: 1.6209705196321011
+2024-07-23 12:47:19,850 - PrintLogger - INFO - Eval loss: 2.600190437833468
+2024-07-23 12:47:34,084 - PrintLogger - INFO - Eval loss: 2.1105804787327846
+2024-07-23 12:47:34,102 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_21.json
+2024-07-23 12:47:34,106 - PrintLogger - INFO - Running PreRun for layer 22 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_22.json
+2024-07-23 12:47:34,109 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:47:34,112 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:48:10,578 - PrintLogger - INFO - Eval loss: 1.4997932794193427
+2024-07-23 12:48:18,262 - PrintLogger - INFO - Eval loss: 2.426267280181249
+2024-07-23 12:48:32,692 - PrintLogger - INFO - Eval loss: 1.9630302798002959
+2024-07-23 12:48:32,700 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_22.json
+2024-07-23 12:48:32,701 - PrintLogger - INFO - Running PreRun for layer 23 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_23.json
+2024-07-23 12:48:32,707 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:48:32,709 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:49:07,629 - PrintLogger - INFO - Eval loss: 1.402520207191507
+2024-07-23 12:49:15,304 - PrintLogger - INFO - Eval loss: 2.4202986185749373
+2024-07-23 12:49:29,776 - PrintLogger - INFO - Eval loss: 1.9114094128832222
+2024-07-23 12:49:29,795 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_23.json
+2024-07-23 12:49:29,798 - PrintLogger - INFO - Running PreRun for layer 24 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_24.json
+2024-07-23 12:49:29,802 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:49:29,806 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:50:17,936 - PrintLogger - INFO - Eval loss: 1.368907871345679
+2024-07-23 12:50:25,619 - PrintLogger - INFO - Eval loss: 2.3616562875608604
+2024-07-23 12:50:39,454 - PrintLogger - INFO - Eval loss: 1.8652820794532696
+2024-07-23 12:50:39,471 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_24.json
+2024-07-23 12:50:39,477 - PrintLogger - INFO - Running PreRun for layer 25 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_25.json
+2024-07-23 12:50:39,484 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:50:39,491 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:51:20,738 - PrintLogger - INFO - Eval loss: 1.3703946515917778
+2024-07-23 12:51:28,408 - PrintLogger - INFO - Eval loss: 2.3598014329870542
+2024-07-23 12:51:42,662 - PrintLogger - INFO - Eval loss: 1.865098042289416
+2024-07-23 12:51:42,668 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_25.json
+2024-07-23 12:51:42,670 - PrintLogger - INFO - Running PreRun for layer 26 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_26.json
+2024-07-23 12:51:42,672 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:51:42,675 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:52:18,939 - PrintLogger - INFO - Eval loss: 1.2902432394524415
+2024-07-23 12:52:26,627 - PrintLogger - INFO - Eval loss: 2.345551486810048
+2024-07-23 12:52:41,279 - PrintLogger - INFO - Eval loss: 1.817897363131245
+2024-07-23 12:52:41,295 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_26.json
+2024-07-23 12:52:41,301 - PrintLogger - INFO - Running PreRun for layer 27 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_27.json
+2024-07-23 12:52:41,305 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:52:41,310 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:53:11,163 - PrintLogger - INFO - Eval loss: 1.2849525553484757
+2024-07-23 12:53:18,827 - PrintLogger - INFO - Eval loss: 2.3508351713418962
+2024-07-23 12:53:33,601 - PrintLogger - INFO - Eval loss: 1.817893863345186
+2024-07-23 12:53:33,903 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_27.json
+2024-07-23 12:53:33,906 - PrintLogger - INFO - Running PreRun for layer 28 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_28.json
+2024-07-23 12:53:33,909 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:53:33,911 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:54:13,385 - PrintLogger - INFO - Eval loss: 1.322158593684435
+2024-07-23 12:54:21,063 - PrintLogger - INFO - Eval loss: 2.317055431008339
+2024-07-23 12:54:34,940 - PrintLogger - INFO - Eval loss: 1.819607012346387
+2024-07-23 12:54:34,963 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_28.json
+2024-07-23 12:54:34,969 - PrintLogger - INFO - Running PreRun for layer 29 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_29.json
+2024-07-23 12:54:34,976 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:54:34,981 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:55:08,897 - PrintLogger - INFO - Eval loss: 1.336777027696371
+2024-07-23 12:55:16,585 - PrintLogger - INFO - Eval loss: 2.31974935233593
+2024-07-23 12:55:31,927 - PrintLogger - INFO - Eval loss: 1.8282631900161506
+2024-07-23 12:55:31,933 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_29.json
+2024-07-23 12:55:31,934 - PrintLogger - INFO - Running PreRun for layer 30 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_30.json
+2024-07-23 12:55:31,936 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:55:31,939 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:56:07,554 - PrintLogger - INFO - Eval loss: 1.3119493400057156
+2024-07-23 12:56:15,232 - PrintLogger - INFO - Eval loss: 2.3582074364026386
+2024-07-23 12:56:30,612 - PrintLogger - INFO - Eval loss: 1.8350783882041772
+2024-07-23 12:56:30,621 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_30.json
+2024-07-23 12:56:30,623 - PrintLogger - INFO - Running PreRun for layer 31 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_31.json
+2024-07-23 12:56:30,625 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:56:30,627 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:57:11,307 - PrintLogger - INFO - Eval loss: 1.3773478706677755
+2024-07-23 12:57:18,989 - PrintLogger - INFO - Eval loss: 2.472236217558384
+2024-07-23 12:57:33,226 - PrintLogger - INFO - Eval loss: 1.9247920441130797
+2024-07-23 12:57:33,236 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_31.json
+2024-07-23 12:57:33,240 - PrintLogger - INFO - Running PreRun for layer 32 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_32.json
+2024-07-23 12:57:33,247 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:57:33,250 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:58:23,834 - PrintLogger - INFO - Eval loss: 1.3534094467759132
+2024-07-23 12:58:30,941 - PrintLogger - INFO - Eval loss: 2.39769032895565
+2024-07-23 12:58:44,503 - PrintLogger - INFO - Eval loss: 1.8755498878657817
+2024-07-23 12:58:44,522 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_32.json
+2024-07-23 12:58:44,528 - PrintLogger - INFO - Running PreRun for layer 33 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_33.json
+2024-07-23 12:58:44,534 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:58:44,538 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 12:59:21,813 - PrintLogger - INFO - Eval loss: 1.3978030937413375
+2024-07-23 12:59:28,305 - PrintLogger - INFO - Eval loss: 2.391507939994335
+2024-07-23 12:59:41,603 - PrintLogger - INFO - Eval loss: 1.8946555168678363
+2024-07-23 12:59:41,613 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_33.json
+2024-07-23 12:59:41,616 - PrintLogger - INFO - Running PreRun for layer 34 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_34.json
+2024-07-23 12:59:41,619 - PrintLogger - INFO - Using device: cuda
+2024-07-23 12:59:41,621 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:00:25,372 - PrintLogger - INFO - Eval loss: 1.443213049074014
+2024-07-23 13:00:31,800 - PrintLogger - INFO - Eval loss: 2.3895953789353372
+2024-07-23 13:00:44,126 - PrintLogger - INFO - Eval loss: 1.9164042140046755
+2024-07-23 13:00:44,142 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_34.json
+2024-07-23 13:00:44,146 - PrintLogger - INFO - Running PreRun for layer 35 of openai-community/gpt2-large run name PreRun.Layer.openai-community_gpt2-large_layer_35.json
+2024-07-23 13:00:44,153 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:00:44,157 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:01:22,407 - PrintLogger - INFO - Eval loss: 1.5219782307744025
+2024-07-23 13:01:28,568 - PrintLogger - INFO - Eval loss: 2.387795755267143
+2024-07-23 13:01:40,466 - PrintLogger - INFO - Eval loss: 1.9548869930207728
+2024-07-23 13:01:40,476 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large_layer_35.json
+2024-07-23 13:01:40,483 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Layer.openai-community_gpt2-large.all_layers.json
+2024-07-23 13:01:40,485 - PrintLogger - INFO - Layer   Score     
+2024-07-23 13:01:40,486 - PrintLogger - INFO - 0       2.5142    2.7262    2.6202    0.2120    
+2024-07-23 13:01:40,488 - PrintLogger - INFO - 1       2.3063    2.5636    2.4349    0.2573    
+2024-07-23 13:01:40,489 - PrintLogger - INFO - 2       2.1480    2.4289    2.2884    0.2809    
+2024-07-23 13:01:40,490 - PrintLogger - INFO - 3       2.1024    2.3904    2.2464    0.2880    
+2024-07-23 13:01:40,492 - PrintLogger - INFO - 4       1.9769    2.2941    2.1355    0.3172    
+2024-07-23 13:01:40,494 - PrintLogger - INFO - 5       1.7675    2.2319    1.9997    0.4644    
+2024-07-23 13:01:40,495 - PrintLogger - INFO - 6       1.6363    2.0675    1.8519    0.4312    
+2024-07-23 13:01:40,498 - PrintLogger - INFO - 7       1.6179    2.0738    1.8459    0.4558    
+2024-07-23 13:01:40,500 - PrintLogger - INFO - 8       1.5865    2.1315    1.8590    0.5450    
+2024-07-23 13:01:40,502 - PrintLogger - INFO - 9       1.4679    2.2451    1.8565    0.7772    
+2024-07-23 13:01:40,503 - PrintLogger - INFO - 10      1.4944    2.1185    1.8064    0.6241    
+2024-07-23 13:01:40,505 - PrintLogger - INFO - 11      1.4763    2.1413    1.8088    0.6650    
+2024-07-23 13:01:40,507 - PrintLogger - INFO - 12      1.4696    2.1838    1.8267    0.7142    
+2024-07-23 13:01:40,510 - PrintLogger - INFO - 13      1.5303    2.1293    1.8298    0.5990    
+2024-07-23 13:01:40,512 - PrintLogger - INFO - 14      1.5196    2.2431    1.8813    0.7236    
+2024-07-23 13:01:40,513 - PrintLogger - INFO - 15      1.5386    2.1909    1.8647    0.6523    
+2024-07-23 13:01:40,516 - PrintLogger - INFO - 16      1.4142    2.2818    1.8480    0.8675    
+2024-07-23 13:01:40,518 - PrintLogger - INFO - 17      1.4168    2.1590    1.7879    0.7422    
+2024-07-23 13:01:40,519 - PrintLogger - INFO - 18      1.3667    2.1898    1.7783    0.8230    
+2024-07-23 13:01:40,521 - PrintLogger - INFO - 19      1.4269    2.2499    1.8384    0.8230    
+2024-07-23 13:01:40,523 - PrintLogger - INFO - 20      1.5599    2.6104    2.0851    1.0505    
+2024-07-23 13:01:40,524 - PrintLogger - INFO - 21      1.6210    2.6002    2.1106    0.9792    
+2024-07-23 13:01:40,526 - PrintLogger - INFO - 22      1.4998    2.4263    1.9630    0.9265    
+2024-07-23 13:01:40,528 - PrintLogger - INFO - 23      1.4025    2.4203    1.9114    1.0178    
+2024-07-23 13:01:40,530 - PrintLogger - INFO - 24      1.3689    2.3617    1.8653    0.9927    
+2024-07-23 13:01:40,532 - PrintLogger - INFO - 25      1.3704    2.3598    1.8651    0.9894    
+2024-07-23 13:01:40,534 - PrintLogger - INFO - 26      1.2902    2.3456    1.8179    1.0553    
+2024-07-23 13:01:40,536 - PrintLogger - INFO - 27      1.2850    2.3508    1.8179    1.0659    
+2024-07-23 13:01:40,538 - PrintLogger - INFO - 28      1.3222    2.3171    1.8196    0.9949    
+2024-07-23 13:01:40,540 - PrintLogger - INFO - 29      1.3368    2.3197    1.8283    0.9830    
+2024-07-23 13:01:40,541 - PrintLogger - INFO - 30      1.3119    2.3582    1.8351    1.0463    
+2024-07-23 13:01:40,543 - PrintLogger - INFO - 31      1.3773    2.4722    1.9248    1.0949    
+2024-07-23 13:01:40,546 - PrintLogger - INFO - 32      1.3534    2.3977    1.8755    1.0443    
+2024-07-23 13:01:40,547 - PrintLogger - INFO - 33      1.3978    2.3915    1.8947    0.9937    
+2024-07-23 13:01:40,550 - PrintLogger - INFO - 34      1.4432    2.3896    1.9164    0.9464    
+2024-07-23 13:01:40,551 - PrintLogger - INFO - 35      1.5220    2.3878    1.9549    0.8658    
+2024-07-23 13:01:40,554 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:01:40,556 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:02:39,784 - PrintLogger - INFO - Eval loss: 3.7868953476349514
+2024-07-23 13:02:45,929 - PrintLogger - INFO - Eval loss: 3.9381232142448424
+2024-07-23 13:02:58,242 - PrintLogger - INFO - Eval loss: 3.862509280939897
+2024-07-23 13:02:58,262 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:02:58,267 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:03:44,655 - PrintLogger - INFO - Eval loss: 3.788212044040362
+2024-07-23 13:03:50,860 - PrintLogger - INFO - Eval loss: 3.9393717885017394
+2024-07-23 13:04:03,186 - PrintLogger - INFO - Eval loss: 3.8637919162710506
+2024-07-23 13:04:03,193 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:04:03,200 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:05:06,378 - PrintLogger - INFO - Eval loss: 3.788009550174077
+2024-07-23 13:05:12,518 - PrintLogger - INFO - Eval loss: 3.9391581237316133
+2024-07-23 13:05:24,542 - PrintLogger - INFO - Eval loss: 3.8635838369528455
+2024-07-23 13:05:24,548 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:05:24,553 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:06:45,340 - PrintLogger - INFO - Eval loss: 3.786718292037646
+2024-07-23 13:06:50,979 - PrintLogger - INFO - Eval loss: 3.937847567598025
+2024-07-23 13:07:02,245 - PrintLogger - INFO - Eval loss: 3.8622829298178356
+2024-07-23 13:07:02,249 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:07:02,253 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:08:32,943 - PrintLogger - INFO - Eval loss: 3.7860677152872086
+2024-07-23 13:08:38,573 - PrintLogger - INFO - Eval loss: 3.937274028857549
+2024-07-23 13:08:49,834 - PrintLogger - INFO - Eval loss: 3.861670872072379
+2024-07-23 13:08:49,841 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:08:49,845 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:10:14,016 - PrintLogger - INFO - Eval loss: 3.7873143017292024
+2024-07-23 13:10:19,648 - PrintLogger - INFO - Eval loss: 3.938502742846807
+2024-07-23 13:10:30,883 - PrintLogger - INFO - Eval loss: 3.8629085222880044
+2024-07-23 13:10:30,890 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:10:30,896 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:12:03,026 - PrintLogger - INFO - Eval loss: 3.7865204403797788
+2024-07-23 13:12:08,658 - PrintLogger - INFO - Eval loss: 3.9377393354972203
+2024-07-23 13:12:19,926 - PrintLogger - INFO - Eval loss: 3.8621298879384995
+2024-07-23 13:12:19,933 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:12:19,937 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:13:42,861 - PrintLogger - INFO - Eval loss: 3.786693608760834
+2024-07-23 13:13:48,482 - PrintLogger - INFO - Eval loss: 3.937872972091039
+2024-07-23 13:13:59,734 - PrintLogger - INFO - Eval loss: 3.8622832904259363
+2024-07-23 13:13:59,738 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:13:59,744 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:15:32,250 - PrintLogger - INFO - Eval loss: 3.788460525870323
+2024-07-23 13:15:37,880 - PrintLogger - INFO - Eval loss: 3.939525141318639
+2024-07-23 13:15:49,170 - PrintLogger - INFO - Eval loss: 3.863992833594481
+2024-07-23 13:15:49,179 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:15:49,184 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:17:19,032 - PrintLogger - INFO - Eval loss: 3.7872576107581457
+2024-07-23 13:17:24,655 - PrintLogger - INFO - Eval loss: 3.9384312868118285
+2024-07-23 13:17:35,895 - PrintLogger - INFO - Eval loss: 3.8628444487849873
+2024-07-23 13:17:35,901 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:17:35,907 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:19:00,165 - PrintLogger - INFO - Eval loss: 3.7852129846811295
+2024-07-23 13:19:05,805 - PrintLogger - INFO - Eval loss: 3.936471462249756
+2024-07-23 13:19:17,071 - PrintLogger - INFO - Eval loss: 3.8608422234654425
+2024-07-23 13:19:17,078 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:19:17,081 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:20:41,742 - PrintLogger - INFO - Eval loss: 3.7868831008672714
+2024-07-23 13:20:47,380 - PrintLogger - INFO - Eval loss: 3.938064084450404
+2024-07-23 13:20:58,617 - PrintLogger - INFO - Eval loss: 3.8624735926588376
+2024-07-23 13:20:58,625 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:20:58,632 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:23:11,933 - PrintLogger - INFO - Eval loss: 3.7860820869604748
+2024-07-23 13:23:17,694 - PrintLogger - INFO - Eval loss: 3.937226278583209
+2024-07-23 13:23:28,962 - PrintLogger - INFO - Eval loss: 3.861654182771842
+2024-07-23 13:23:28,968 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:23:28,972 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:24:53,997 - PrintLogger - INFO - Eval loss: 3.7859109739462533
+2024-07-23 13:24:59,632 - PrintLogger - INFO - Eval loss: 3.9371382256348926
+2024-07-23 13:25:10,897 - PrintLogger - INFO - Eval loss: 3.861524599790573
+2024-07-23 13:25:10,902 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:25:10,906 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:26:33,492 - PrintLogger - INFO - Eval loss: 3.7885790059963864
+2024-07-23 13:26:39,120 - PrintLogger - INFO - Eval loss: 3.9396444072326022
+2024-07-23 13:26:50,373 - PrintLogger - INFO - Eval loss: 3.8641117066144943
+2024-07-23 13:26:50,379 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:26:50,384 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:28:25,651 - PrintLogger - INFO - Eval loss: 3.785986648996671
+2024-07-23 13:28:31,300 - PrintLogger - INFO - Eval loss: 3.937418183684349
+2024-07-23 13:28:42,580 - PrintLogger - INFO - Eval loss: 3.8617024163405103
+2024-07-23 13:28:42,584 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:28:42,587 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:29:49,657 - PrintLogger - INFO - Eval loss: 3.7876577685276667
+2024-07-23 13:29:55,301 - PrintLogger - INFO - Eval loss: 3.9388093759616214
+2024-07-23 13:30:06,556 - PrintLogger - INFO - Eval loss: 3.8632335722446443
+2024-07-23 13:30:06,559 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:30:06,563 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:31:32,025 - PrintLogger - INFO - Eval loss: 3.7870715310176215
+2024-07-23 13:31:37,663 - PrintLogger - INFO - Eval loss: 3.9382110913594564
+2024-07-23 13:31:48,911 - PrintLogger - INFO - Eval loss: 3.862641311188539
+2024-07-23 13:31:48,917 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:31:48,923 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:33:11,163 - PrintLogger - INFO - Eval loss: 3.78485577305158
+2024-07-23 13:33:16,797 - PrintLogger - INFO - Eval loss: 3.9360050479571025
+2024-07-23 13:33:28,059 - PrintLogger - INFO - Eval loss: 3.860430410504341
+2024-07-23 13:33:28,066 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:33:28,071 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:34:36,619 - PrintLogger - INFO - Eval loss: 3.787716035048167
+2024-07-23 13:34:42,254 - PrintLogger - INFO - Eval loss: 3.9389119992653527
+2024-07-23 13:34:53,507 - PrintLogger - INFO - Eval loss: 3.86331401715676
+2024-07-23 13:34:53,518 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:34:53,527 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:36:18,004 - PrintLogger - INFO - Eval loss: 3.7876474181811015
+2024-07-23 13:36:23,634 - PrintLogger - INFO - Eval loss: 3.9387775182724
+2024-07-23 13:36:34,875 - PrintLogger - INFO - Eval loss: 3.8632124682267506
+2024-07-23 13:36:34,921 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:36:34,927 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:38:03,790 - PrintLogger - INFO - Eval loss: 3.7872998267412186
+2024-07-23 13:38:09,420 - PrintLogger - INFO - Eval loss: 3.938728972276052
+2024-07-23 13:38:20,684 - PrintLogger - INFO - Eval loss: 3.8630143995086352
+2024-07-23 13:38:20,691 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:38:20,694 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:40:07,965 - PrintLogger - INFO - Eval loss: 3.7890620470046996
+2024-07-23 13:40:13,595 - PrintLogger - INFO - Eval loss: 3.9401680837074915
+2024-07-23 13:40:24,874 - PrintLogger - INFO - Eval loss: 3.864615065356096
+2024-07-23 13:40:24,879 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:40:24,884 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:41:48,829 - PrintLogger - INFO - Eval loss: 3.7870734413464864
+2024-07-23 13:41:54,468 - PrintLogger - INFO - Eval loss: 3.938398196299871
+2024-07-23 13:42:05,737 - PrintLogger - INFO - Eval loss: 3.8627358188231784
+2024-07-23 13:42:05,744 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:42:05,747 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:43:27,719 - PrintLogger - INFO - Eval loss: 3.787031403183937
+2024-07-23 13:43:33,327 - PrintLogger - INFO - Eval loss: 3.9380818019310633
+2024-07-23 13:43:44,530 - PrintLogger - INFO - Eval loss: 3.8625566025575
+2024-07-23 13:43:44,535 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:43:44,537 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:45:00,496 - PrintLogger - INFO - Eval loss: 3.7875149726867674
+2024-07-23 13:45:06,099 - PrintLogger - INFO - Eval loss: 3.9386181672414144
+2024-07-23 13:45:17,288 - PrintLogger - INFO - Eval loss: 3.863066569964091
+2024-07-23 13:45:17,294 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:45:17,296 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:46:31,982 - PrintLogger - INFO - Eval loss: 3.7872415125370025
+2024-07-23 13:46:37,571 - PrintLogger - INFO - Eval loss: 3.938339188694954
+2024-07-23 13:46:48,754 - PrintLogger - INFO - Eval loss: 3.8627903506159784
+2024-07-23 13:46:48,758 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:46:48,761 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:47:55,463 - PrintLogger - INFO - Eval loss: 3.782915716369947
+2024-07-23 13:48:01,057 - PrintLogger - INFO - Eval loss: 3.934261499842008
+2024-07-23 13:48:12,226 - PrintLogger - INFO - Eval loss: 3.8585886081059773
+2024-07-23 13:48:12,232 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:48:12,237 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:50:00,850 - PrintLogger - INFO - Eval loss: 3.786120899518331
+2024-07-23 13:50:06,460 - PrintLogger - INFO - Eval loss: 3.9371661067008974
+2024-07-23 13:50:17,671 - PrintLogger - INFO - Eval loss: 3.861643503109614
+2024-07-23 13:50:17,676 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:50:17,679 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:51:21,905 - PrintLogger - INFO - Eval loss: 3.7860963771740597
+2024-07-23 13:51:27,492 - PrintLogger - INFO - Eval loss: 3.9372708708047868
+2024-07-23 13:51:38,665 - PrintLogger - INFO - Eval loss: 3.861683623989423
+2024-07-23 13:51:38,670 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:51:38,672 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:53:04,746 - PrintLogger - INFO - Eval loss: 3.790815888841947
+2024-07-23 13:53:10,339 - PrintLogger - INFO - Eval loss: 3.942030870914459
+2024-07-23 13:53:21,510 - PrintLogger - INFO - Eval loss: 3.8664233798782033
+2024-07-23 13:53:21,515 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:53:21,518 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 13:54:27,355 - PrintLogger - INFO - Eval loss: 3.7871615747610727
+2024-07-23 13:54:32,959 - PrintLogger - INFO - Eval loss: 3.9383750428756077
+2024-07-23 13:54:44,178 - PrintLogger - INFO - Eval loss: 3.86276830881834
+2024-07-23 13:54:44,184 - PrintLogger - INFO - Using device: cuda
+2024-07-23 13:54:44,189 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:29:42,911 - PrintLogger - INFO - Eval loss: 3.7877370367447534
+2024-07-23 15:29:48,726 - PrintLogger - INFO - Eval loss: 3.9390305509169896
+2024-07-23 15:30:01,557 - PrintLogger - INFO - Eval loss: 3.8633837938308715
+2024-07-23 15:30:01,561 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:30:01,564 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:30:59,958 - PrintLogger - INFO - Eval loss: 3.786983388662338
+2024-07-23 15:31:12,061 - PrintLogger - INFO - Eval loss: 3.9381183624267577
+2024-07-23 15:31:25,540 - PrintLogger - INFO - Eval loss: 3.862550875544548
+2024-07-23 15:31:25,545 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:31:25,558 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:32:23,793 - PrintLogger - INFO - Eval loss: 3.7855014155308404
+2024-07-23 15:32:35,699 - PrintLogger - INFO - Eval loss: 3.9365700552860896
+2024-07-23 15:32:54,191 - PrintLogger - INFO - Eval loss: 3.861035735408465
+2024-07-23 15:32:54,196 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:32:54,200 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:33:50,961 - PrintLogger - INFO - Eval loss: 3.7866279512643812
+2024-07-23 15:34:00,567 - PrintLogger - INFO - Eval loss: 3.9379216531912484
+2024-07-23 15:34:21,993 - PrintLogger - INFO - Eval loss: 3.862274802227815
+2024-07-23 15:34:21,999 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:34:22,002 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:35:11,688 - PrintLogger - INFO - Eval loss: 3.7875930736462275
+2024-07-23 15:35:21,024 - PrintLogger - INFO - Eval loss: 3.9388463069995243
+2024-07-23 15:35:38,266 - PrintLogger - INFO - Eval loss: 3.863219690322876
+2024-07-23 15:35:38,294 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:35:38,297 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:36:34,419 - PrintLogger - INFO - Eval loss: 3.7861417680978775
+2024-07-23 15:36:43,632 - PrintLogger - INFO - Eval loss: 3.9373231758673986
+2024-07-23 15:37:01,040 - PrintLogger - INFO - Eval loss: 3.8617324719826382
+2024-07-23 15:37:01,045 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:37:01,070 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:37:37,151 - PrintLogger - INFO - Eval loss: 3.7867762446403503
+2024-07-23 15:37:44,620 - PrintLogger - INFO - Eval loss: 3.938030607501666
+2024-07-23 15:38:00,957 - PrintLogger - INFO - Eval loss: 3.862403426071008
+2024-07-23 15:38:00,960 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:38:00,963 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:38:47,494 - PrintLogger - INFO - Eval loss: 3.788869790236155
+2024-07-23 15:38:56,825 - PrintLogger - INFO - Eval loss: 3.9402011384566626
+2024-07-23 15:39:14,288 - PrintLogger - INFO - Eval loss: 3.864535464346409
+2024-07-23 15:39:14,292 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:39:14,294 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:39:51,929 - PrintLogger - INFO - Eval loss: 3.787466185291608
+2024-07-23 15:40:00,622 - PrintLogger - INFO - Eval loss: 3.9387402365605038
+2024-07-23 15:40:19,088 - PrintLogger - INFO - Eval loss: 3.863103210926056
+2024-07-23 15:40:19,119 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:40:19,134 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:41:09,979 - PrintLogger - INFO - Eval loss: 3.785647072394689
+2024-07-23 15:41:19,531 - PrintLogger - INFO - Eval loss: 3.936932396888733
+2024-07-23 15:41:36,647 - PrintLogger - INFO - Eval loss: 3.8612897346417108
+2024-07-23 15:41:36,758 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:41:36,762 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:42:21,352 - PrintLogger - INFO - Eval loss: 3.78939738770326
+2024-07-23 15:42:31,007 - PrintLogger - INFO - Eval loss: 3.940589353442192
+2024-07-23 15:42:48,112 - PrintLogger - INFO - Eval loss: 3.864993370572726
+2024-07-23 15:42:48,119 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:42:48,121 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:43:33,093 - PrintLogger - INFO - Eval loss: 3.787056601047516
+2024-07-23 15:43:40,675 - PrintLogger - INFO - Eval loss: 3.938230961561203
+2024-07-23 15:43:58,622 - PrintLogger - INFO - Eval loss: 3.8626437813043593
+2024-07-23 15:43:58,626 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:43:58,628 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:44:42,999 - PrintLogger - INFO - Eval loss: 3.785410941640536
+2024-07-23 15:44:51,581 - PrintLogger - INFO - Eval loss: 3.9366320172945657
+2024-07-23 15:45:07,862 - PrintLogger - INFO - Eval loss: 3.861021479467551
+2024-07-23 15:45:07,900 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:45:07,929 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:45:49,958 - PrintLogger - INFO - Eval loss: 3.785681160291036
+2024-07-23 15:45:57,413 - PrintLogger - INFO - Eval loss: 3.9369562645753224
+2024-07-23 15:46:10,929 - PrintLogger - INFO - Eval loss: 3.8613187124331794
+2024-07-23 15:46:10,933 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:46:10,936 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:46:51,252 - PrintLogger - INFO - Eval loss: 3.787542036175728
+2024-07-23 15:47:00,926 - PrintLogger - INFO - Eval loss: 3.9388561487197875
+2024-07-23 15:47:15,235 - PrintLogger - INFO - Eval loss: 3.8631990924477577
+2024-07-23 15:47:15,239 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:47:15,242 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:48:00,175 - PrintLogger - INFO - Eval loss: 3.787554446856181
+2024-07-23 15:48:09,694 - PrintLogger - INFO - Eval loss: 3.9388608713944753
+2024-07-23 15:48:24,540 - PrintLogger - INFO - Eval loss: 3.863207659125328
+2024-07-23 15:48:24,548 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:48:24,552 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:49:09,267 - PrintLogger - INFO - Eval loss: 3.789215639233589
+2024-07-23 15:49:16,787 - PrintLogger - INFO - Eval loss: 3.9403599381446837
+2024-07-23 15:49:33,158 - PrintLogger - INFO - Eval loss: 3.8647877886891364
+2024-07-23 15:49:33,162 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:49:33,165 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:50:15,228 - PrintLogger - INFO - Eval loss: 3.7870969742536547
+2024-07-23 15:50:23,004 - PrintLogger - INFO - Eval loss: 3.938196188211441
+2024-07-23 15:50:39,669 - PrintLogger - INFO - Eval loss: 3.8626465812325477
+2024-07-23 15:50:39,681 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:50:39,689 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:51:20,566 - PrintLogger - INFO - Eval loss: 3.786873768766721
+2024-07-23 15:51:28,283 - PrintLogger - INFO - Eval loss: 3.93800867497921
+2024-07-23 15:51:44,243 - PrintLogger - INFO - Eval loss: 3.8624412218729653
+2024-07-23 15:51:44,253 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:51:44,256 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:52:26,878 - PrintLogger - INFO - Eval loss: 3.7841918259859084
+2024-07-23 15:52:34,839 - PrintLogger - INFO - Eval loss: 3.93534392118454
+2024-07-23 15:52:50,743 - PrintLogger - INFO - Eval loss: 3.8597678735852243
+2024-07-23 15:52:50,748 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:52:50,750 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:53:31,956 - PrintLogger - INFO - Eval loss: 3.7853526920080185
+2024-07-23 15:53:40,302 - PrintLogger - INFO - Eval loss: 3.93640150030454
+2024-07-23 15:53:57,247 - PrintLogger - INFO - Eval loss: 3.8608770961562793
+2024-07-23 15:53:57,251 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:53:57,256 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:54:39,526 - PrintLogger - INFO - Eval loss: 3.7844375292460124
+2024-07-23 15:54:48,234 - PrintLogger - INFO - Eval loss: 3.9355488320191703
+2024-07-23 15:55:05,878 - PrintLogger - INFO - Eval loss: 3.8599931806325913
+2024-07-23 15:55:05,882 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:55:05,885 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:55:44,595 - PrintLogger - INFO - Eval loss: 3.7856511851151784
+2024-07-23 15:55:53,190 - PrintLogger - INFO - Eval loss: 3.936700807015101
+2024-07-23 15:56:10,556 - PrintLogger - INFO - Eval loss: 3.86117599606514
+2024-07-23 15:56:10,561 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:56:10,565 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:56:47,152 - PrintLogger - INFO - Eval loss: 3.7860826661189395
+2024-07-23 15:56:53,326 - PrintLogger - INFO - Eval loss: 3.937136196096738
+2024-07-23 15:57:05,443 - PrintLogger - INFO - Eval loss: 3.861609431107839
+2024-07-23 15:57:05,448 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:57:05,452 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:57:49,472 - PrintLogger - INFO - Eval loss: 3.786873228351275
+2024-07-23 15:57:59,742 - PrintLogger - INFO - Eval loss: 3.938290739059448
+2024-07-23 15:58:12,580 - PrintLogger - INFO - Eval loss: 3.8625819837053617
+2024-07-23 15:58:12,586 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:58:12,596 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 15:59:03,899 - PrintLogger - INFO - Eval loss: 3.786803008119265
+2024-07-23 15:59:13,584 - PrintLogger - INFO - Eval loss: 3.9379035850365955
+2024-07-23 15:59:26,889 - PrintLogger - INFO - Eval loss: 3.8623532965779304
+2024-07-23 15:59:26,894 - PrintLogger - INFO - Using device: cuda
+2024-07-23 15:59:26,897 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:00:10,350 - PrintLogger - INFO - Eval loss: 3.786586742599805
+2024-07-23 16:00:20,620 - PrintLogger - INFO - Eval loss: 3.9376648366451263
+2024-07-23 16:00:41,165 - PrintLogger - INFO - Eval loss: 3.862125789622466
+2024-07-23 16:00:41,169 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:00:41,172 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:01:22,255 - PrintLogger - INFO - Eval loss: 3.78803367515405
+2024-07-23 16:01:32,375 - PrintLogger - INFO - Eval loss: 3.939218072096507
+2024-07-23 16:01:52,941 - PrintLogger - INFO - Eval loss: 3.8636258736252787
+2024-07-23 16:01:52,945 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:01:52,947 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:02:33,398 - PrintLogger - INFO - Eval loss: 3.7856545448303223
+2024-07-23 16:02:43,865 - PrintLogger - INFO - Eval loss: 3.936717686057091
+2024-07-23 16:03:04,425 - PrintLogger - INFO - Eval loss: 3.8611861154437066
+2024-07-23 16:03:04,436 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:03:04,439 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:03:39,661 - PrintLogger - INFO - Eval loss: 3.787263955672582
+2024-07-23 16:03:50,587 - PrintLogger - INFO - Eval loss: 3.938489238421122
+2024-07-23 16:04:10,420 - PrintLogger - INFO - Eval loss: 3.862876597046852
+2024-07-23 16:04:10,425 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:04:10,431 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:04:46,296 - PrintLogger - INFO - Eval loss: 3.7862859467665353
+2024-07-23 16:04:55,895 - PrintLogger - INFO - Eval loss: 3.9374072035153707
+2024-07-23 16:05:15,588 - PrintLogger - INFO - Eval loss: 3.861846575140953
+2024-07-23 16:05:15,600 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:05:15,604 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:05:55,141 - PrintLogger - INFO - Eval loss: 3.7873441467682523
+2024-07-23 16:06:03,317 - PrintLogger - INFO - Eval loss: 3.9383718222379684
+2024-07-23 16:06:22,398 - PrintLogger - INFO - Eval loss: 3.86285798450311
+2024-07-23 16:06:22,403 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:06:22,407 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:07:04,247 - PrintLogger - INFO - Eval loss: 3.788508733113607
+2024-07-23 16:07:11,441 - PrintLogger - INFO - Eval loss: 3.939811810851097
+2024-07-23 16:07:29,379 - PrintLogger - INFO - Eval loss: 3.864160271982352
+2024-07-23 16:07:29,384 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:07:29,387 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:08:11,005 - PrintLogger - INFO - Eval loss: 3.786766138672829
+2024-07-23 16:08:17,866 - PrintLogger - INFO - Eval loss: 3.93794819911321
+2024-07-23 16:08:35,904 - PrintLogger - INFO - Eval loss: 3.8623571688930194
+2024-07-23 16:08:35,909 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:08:35,911 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:09:16,839 - PrintLogger - INFO - Eval loss: 3.7869303514560064
+2024-07-23 16:09:24,440 - PrintLogger - INFO - Eval loss: 3.938081094622612
+2024-07-23 16:09:43,029 - PrintLogger - INFO - Eval loss: 3.8625057230393094
+2024-07-23 16:09:43,034 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:09:43,036 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:10:23,179 - PrintLogger - INFO - Eval loss: 3.786852819720904
+2024-07-23 16:10:30,847 - PrintLogger - INFO - Eval loss: 3.937916432817777
+2024-07-23 16:10:47,742 - PrintLogger - INFO - Eval loss: 3.8623846262693404
+2024-07-23 16:10:47,748 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:10:47,798 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:11:30,335 - PrintLogger - INFO - Eval loss: 3.78727944791317
+2024-07-23 16:11:37,663 - PrintLogger - INFO - Eval loss: 3.938463532924652
+2024-07-23 16:11:55,228 - PrintLogger - INFO - Eval loss: 3.862871490418911
+2024-07-23 16:11:55,233 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:11:55,239 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:12:36,127 - PrintLogger - INFO - Eval loss: 3.7879914989074073
+2024-07-23 16:12:43,233 - PrintLogger - INFO - Eval loss: 3.9391285290320712
+2024-07-23 16:13:00,888 - PrintLogger - INFO - Eval loss: 3.8635600139697392
+2024-07-23 16:13:00,929 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:13:00,965 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:13:43,183 - PrintLogger - INFO - Eval loss: 3.786611940463384
+2024-07-23 16:13:50,383 - PrintLogger - INFO - Eval loss: 3.9378729512294135
+2024-07-23 16:14:07,187 - PrintLogger - INFO - Eval loss: 3.8622424458463986
+2024-07-23 16:14:07,192 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:14:07,230 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:14:48,490 - PrintLogger - INFO - Eval loss: 3.7878411918878556
+2024-07-23 16:14:57,052 - PrintLogger - INFO - Eval loss: 3.939044241110484
+2024-07-23 16:15:14,800 - PrintLogger - INFO - Eval loss: 3.86344271649917
+2024-07-23 16:15:14,804 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:15:14,807 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:15:53,469 - PrintLogger - INFO - Eval loss: 3.786357197165489
+2024-07-23 16:16:02,019 - PrintLogger - INFO - Eval loss: 3.9375170717636743
+2024-07-23 16:16:19,800 - PrintLogger - INFO - Eval loss: 3.861937134464582
+2024-07-23 16:16:19,805 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:16:19,811 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:16:58,297 - PrintLogger - INFO - Eval loss: 3.7869375477234524
+2024-07-23 16:17:06,804 - PrintLogger - INFO - Eval loss: 3.9382559289534886
+2024-07-23 16:17:24,616 - PrintLogger - INFO - Eval loss: 3.8625967383384703
+2024-07-23 16:17:24,621 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:17:24,623 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:18:03,042 - PrintLogger - INFO - Eval loss: 3.7872717519601187
+2024-07-23 16:18:11,237 - PrintLogger - INFO - Eval loss: 3.9385929336150487
+2024-07-23 16:18:28,931 - PrintLogger - INFO - Eval loss: 3.8629323427875835
+2024-07-23 16:18:28,937 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:18:28,940 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:19:10,354 - PrintLogger - INFO - Eval loss: 3.7860488504171372
+2024-07-23 16:19:17,775 - PrintLogger - INFO - Eval loss: 3.9372128556172052
+2024-07-23 16:19:35,795 - PrintLogger - INFO - Eval loss: 3.861630853017171
+2024-07-23 16:19:35,801 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:19:35,805 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:20:15,784 - PrintLogger - INFO - Eval loss: 3.78494930267334
+2024-07-23 16:20:23,119 - PrintLogger - INFO - Eval loss: 3.9362165013949078
+2024-07-23 16:20:41,983 - PrintLogger - INFO - Eval loss: 3.860582902034124
+2024-07-23 16:20:41,988 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:20:41,991 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:21:21,516 - PrintLogger - INFO - Eval loss: 3.7877604643503826
+2024-07-23 16:21:29,013 - PrintLogger - INFO - Eval loss: 3.9387978037198383
+2024-07-23 16:21:47,325 - PrintLogger - INFO - Eval loss: 3.8632791340351105
+2024-07-23 16:21:47,330 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:21:47,333 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:22:28,204 - PrintLogger - INFO - Eval loss: 3.78848797082901
+2024-07-23 16:22:36,097 - PrintLogger - INFO - Eval loss: 3.9396229147911073
+2024-07-23 16:22:55,184 - PrintLogger - INFO - Eval loss: 3.8640554428100584
+2024-07-23 16:22:55,189 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:22:55,191 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:23:37,333 - PrintLogger - INFO - Eval loss: 3.7884818583726885
+2024-07-23 16:23:46,422 - PrintLogger - INFO - Eval loss: 3.9395624111096064
+2024-07-23 16:24:05,804 - PrintLogger - INFO - Eval loss: 3.8640221347411474
+2024-07-23 16:24:05,809 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:24:05,812 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:24:47,161 - PrintLogger - INFO - Eval loss: 3.786287996172905
+2024-07-23 16:24:56,719 - PrintLogger - INFO - Eval loss: 3.9375634382168454
+2024-07-23 16:25:16,036 - PrintLogger - INFO - Eval loss: 3.861925717194875
+2024-07-23 16:25:16,046 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:25:16,049 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:26:01,306 - PrintLogger - INFO - Eval loss: 3.7892322649558383
+2024-07-23 16:26:10,496 - PrintLogger - INFO - Eval loss: 3.940350971619288
+2024-07-23 16:26:29,978 - PrintLogger - INFO - Eval loss: 3.8647916182875632
+2024-07-23 16:26:29,982 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:26:29,995 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:27:15,745 - PrintLogger - INFO - Eval loss: 3.7877761125564575
+2024-07-23 16:27:25,350 - PrintLogger - INFO - Eval loss: 3.938725667198499
+2024-07-23 16:27:42,797 - PrintLogger - INFO - Eval loss: 3.8632508898774782
+2024-07-23 16:27:42,806 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:27:42,814 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:28:19,700 - PrintLogger - INFO - Eval loss: 3.788521901766459
+2024-07-23 16:28:28,434 - PrintLogger - INFO - Eval loss: 3.93973829249541
+2024-07-23 16:28:44,829 - PrintLogger - INFO - Eval loss: 3.8641300971309342
+2024-07-23 16:28:44,834 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:28:44,837 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:29:25,710 - PrintLogger - INFO - Eval loss: 3.784221976995468
+2024-07-23 16:29:35,132 - PrintLogger - INFO - Eval loss: 3.9354624619086582
+2024-07-23 16:29:52,506 - PrintLogger - INFO - Eval loss: 3.859842219452063
+2024-07-23 16:29:52,511 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:29:52,514 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:30:28,554 - PrintLogger - INFO - Eval loss: 3.7870791773001353
+2024-07-23 16:30:38,119 - PrintLogger - INFO - Eval loss: 3.9383885393540066
+2024-07-23 16:30:55,605 - PrintLogger - INFO - Eval loss: 3.8627338583270707
+2024-07-23 16:30:55,609 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:30:55,612 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:31:34,555 - PrintLogger - INFO - Eval loss: 3.790290263295174
+2024-07-23 16:31:42,264 - PrintLogger - INFO - Eval loss: 3.9414572099844616
+2024-07-23 16:32:00,153 - PrintLogger - INFO - Eval loss: 3.8658737366398177
+2024-07-23 16:32:00,158 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:32:00,160 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:32:41,520 - PrintLogger - INFO - Eval loss: 3.785802670319875
+2024-07-23 16:32:47,703 - PrintLogger - INFO - Eval loss: 3.937040931979815
+2024-07-23 16:33:05,805 - PrintLogger - INFO - Eval loss: 3.861421801149845
+2024-07-23 16:33:05,812 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:33:05,817 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:33:50,257 - PrintLogger - INFO - Eval loss: 3.7876500139633813
+2024-07-23 16:33:56,723 - PrintLogger - INFO - Eval loss: 3.938822154204051
+2024-07-23 16:34:14,219 - PrintLogger - INFO - Eval loss: 3.863236084083716
+2024-07-23 16:34:14,278 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:34:14,335 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:34:59,837 - PrintLogger - INFO - Eval loss: 3.787979089220365
+2024-07-23 16:35:06,904 - PrintLogger - INFO - Eval loss: 3.939088017741839
+2024-07-23 16:35:24,464 - PrintLogger - INFO - Eval loss: 3.863533553481102
+2024-07-23 16:35:24,468 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:35:24,515 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:36:08,433 - PrintLogger - INFO - Eval loss: 3.7891922305027643
+2024-07-23 16:36:16,429 - PrintLogger - INFO - Eval loss: 3.940301701426506
+2024-07-23 16:36:36,231 - PrintLogger - INFO - Eval loss: 3.864746965964635
+2024-07-23 16:36:36,235 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:36:36,238 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:37:14,605 - PrintLogger - INFO - Eval loss: 3.786309449871381
+2024-07-23 16:37:23,078 - PrintLogger - INFO - Eval loss: 3.9376473128795624
+2024-07-23 16:37:42,400 - PrintLogger - INFO - Eval loss: 3.861978381375472
+2024-07-23 16:37:42,404 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:37:42,407 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:38:21,539 - PrintLogger - INFO - Eval loss: 3.7870772908131283
+2024-07-23 16:38:29,167 - PrintLogger - INFO - Eval loss: 3.938325301806132
+2024-07-23 16:38:48,137 - PrintLogger - INFO - Eval loss: 3.86270129630963
+2024-07-23 16:38:48,142 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:38:48,144 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:39:27,489 - PrintLogger - INFO - Eval loss: 3.788315561413765
+2024-07-23 16:39:35,157 - PrintLogger - INFO - Eval loss: 3.93941677014033
+2024-07-23 16:39:53,784 - PrintLogger - INFO - Eval loss: 3.8638661657770474
+2024-07-23 16:39:53,789 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:39:53,792 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:40:32,926 - PrintLogger - INFO - Eval loss: 3.7849994510412217
+2024-07-23 16:40:40,653 - PrintLogger - INFO - Eval loss: 3.9362529118855796
+2024-07-23 16:40:58,427 - PrintLogger - INFO - Eval loss: 3.8606261814634006
+2024-07-23 16:40:58,433 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:40:58,439 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:41:37,200 - PrintLogger - INFO - Eval loss: 3.7887387106815975
+2024-07-23 16:41:45,430 - PrintLogger - INFO - Eval loss: 3.940002264579137
+2024-07-23 16:42:03,333 - PrintLogger - INFO - Eval loss: 3.8643704876303673
+2024-07-23 16:42:03,339 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:42:03,341 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:42:41,586 - PrintLogger - INFO - Eval loss: 3.7876006295283635
+2024-07-23 16:42:50,260 - PrintLogger - INFO - Eval loss: 3.9388508896032968
+2024-07-23 16:43:08,110 - PrintLogger - INFO - Eval loss: 3.86322575956583
+2024-07-23 16:43:08,114 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:43:08,117 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:43:46,444 - PrintLogger - INFO - Eval loss: 3.785789753993352
+2024-07-23 16:43:55,300 - PrintLogger - INFO - Eval loss: 3.9371074328819913
+2024-07-23 16:44:13,150 - PrintLogger - INFO - Eval loss: 3.8614485934376717
+2024-07-23 16:44:13,154 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:44:13,156 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:44:51,342 - PrintLogger - INFO - Eval loss: 3.786675417423248
+2024-07-23 16:44:59,692 - PrintLogger - INFO - Eval loss: 3.9379826158285143
+2024-07-23 16:45:15,926 - PrintLogger - INFO - Eval loss: 3.862329016625881
+2024-07-23 16:45:15,934 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:45:15,946 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:45:53,660 - PrintLogger - INFO - Eval loss: 3.7837906777858734
+2024-07-23 16:46:03,207 - PrintLogger - INFO - Eval loss: 3.9350485622882845
+2024-07-23 16:46:20,134 - PrintLogger - INFO - Eval loss: 3.859419620037079
+2024-07-23 16:46:20,160 - PrintLogger - INFO - Saved result to /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large/result/PreRun.Neuron.openai-community_gpt2-large_layer_1.all_neurons.json
+2024-07-23 16:46:20,163 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:46:20,166 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:46:59,814 - PrintLogger - INFO - Eval loss: 3.7879090517759324
+2024-07-23 16:47:08,857 - PrintLogger - INFO - Eval loss: 3.9390788853168486
+2024-07-23 16:47:26,459 - PrintLogger - INFO - Eval loss: 3.8634939685463907
+2024-07-23 16:47:26,463 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:47:26,466 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:48:05,333 - PrintLogger - INFO - Eval loss: 3.78772748708725
+2024-07-23 16:48:14,127 - PrintLogger - INFO - Eval loss: 3.9389901916186014
+2024-07-23 16:48:31,884 - PrintLogger - INFO - Eval loss: 3.8633588393529257
+2024-07-23 16:48:31,889 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:48:31,894 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:49:10,766 - PrintLogger - INFO - Eval loss: 3.7890857179959614
+2024-07-23 16:49:19,512 - PrintLogger - INFO - Eval loss: 3.9402448107798893
+2024-07-23 16:49:37,356 - PrintLogger - INFO - Eval loss: 3.8646652643879253
+2024-07-23 16:49:37,359 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:49:37,361 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:50:15,808 - PrintLogger - INFO - Eval loss: 3.785801449418068
+2024-07-23 16:50:24,275 - PrintLogger - INFO - Eval loss: 3.9370765407880146
+2024-07-23 16:50:40,814 - PrintLogger - INFO - Eval loss: 3.8614389951030414
+2024-07-23 16:50:40,875 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:50:40,878 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:51:26,112 - PrintLogger - INFO - Eval loss: 3.7868225733439127
+2024-07-23 16:51:33,748 - PrintLogger - INFO - Eval loss: 3.9379257440567015
+2024-07-23 16:51:52,149 - PrintLogger - INFO - Eval loss: 3.862374158700307
+2024-07-23 16:51:52,158 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:51:52,161 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:52:32,925 - PrintLogger - INFO - Eval loss: 3.7866539855798087
+2024-07-23 16:52:40,475 - PrintLogger - INFO - Eval loss: 3.9378828128178913
+2024-07-23 16:52:59,612 - PrintLogger - INFO - Eval loss: 3.86226839919885
+2024-07-23 16:52:59,617 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:52:59,620 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:53:36,868 - PrintLogger - INFO - Eval loss: 3.7875598231951395
+2024-07-23 16:53:44,523 - PrintLogger - INFO - Eval loss: 3.9387841542561848
+2024-07-23 16:54:03,601 - PrintLogger - INFO - Eval loss: 3.863171988725662
+2024-07-23 16:54:03,605 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:54:03,608 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:54:42,891 - PrintLogger - INFO - Eval loss: 3.787571491797765
+2024-07-23 16:54:50,533 - PrintLogger - INFO - Eval loss: 3.9387473493814467
+2024-07-23 16:55:09,818 - PrintLogger - INFO - Eval loss: 3.863159420589606
+2024-07-23 16:55:09,824 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:55:09,827 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:55:48,560 - PrintLogger - INFO - Eval loss: 3.7862086643775306
+2024-07-23 16:55:56,173 - PrintLogger - INFO - Eval loss: 3.937393295764923
+2024-07-23 16:56:15,242 - PrintLogger - INFO - Eval loss: 3.861800980071227
+2024-07-23 16:56:15,247 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:56:15,282 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:57:02,875 - PrintLogger - INFO - Eval loss: 3.7871808300415677
+2024-07-23 16:57:11,049 - PrintLogger - INFO - Eval loss: 3.9383423407872518
+2024-07-23 16:57:29,906 - PrintLogger - INFO - Eval loss: 3.8627615854144097
+2024-07-23 16:57:29,910 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:57:29,913 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:58:06,426 - PrintLogger - INFO - Eval loss: 3.7866763601700466
+2024-07-23 16:58:15,089 - PrintLogger - INFO - Eval loss: 3.937930330634117
+2024-07-23 16:58:34,177 - PrintLogger - INFO - Eval loss: 3.862303345402082
+2024-07-23 16:58:34,181 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:58:34,184 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 16:59:14,358 - PrintLogger - INFO - Eval loss: 3.784836201866468
+2024-07-23 16:59:23,768 - PrintLogger - INFO - Eval loss: 3.9360975484053293
+2024-07-23 16:59:42,907 - PrintLogger - INFO - Eval loss: 3.8604668751358986
+2024-07-23 16:59:42,911 - PrintLogger - INFO - Using device: cuda
+2024-07-23 16:59:42,914 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:00:24,241 - PrintLogger - INFO - Eval loss: 3.7871738255023955
+2024-07-23 17:00:33,746 - PrintLogger - INFO - Eval loss: 3.9383168588081996
+2024-07-23 17:00:53,096 - PrintLogger - INFO - Eval loss: 3.8627453421552977
+2024-07-23 17:00:53,101 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:00:53,105 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:01:39,633 - PrintLogger - INFO - Eval loss: 3.787346347173055
+2024-07-23 17:01:49,244 - PrintLogger - INFO - Eval loss: 3.938480165600777
+2024-07-23 17:02:09,704 - PrintLogger - INFO - Eval loss: 3.862913256386916
+2024-07-23 17:02:09,709 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:02:09,711 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:02:52,085 - PrintLogger - INFO - Eval loss: 3.786954200267792
+2024-07-23 17:03:01,885 - PrintLogger - INFO - Eval loss: 3.937985997398694
+2024-07-23 17:03:22,439 - PrintLogger - INFO - Eval loss: 3.862470098833243
+2024-07-23 17:03:22,444 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:03:22,446 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:03:55,753 - PrintLogger - INFO - Eval loss: 3.7863331784804664
+2024-07-23 17:04:06,894 - PrintLogger - INFO - Eval loss: 3.9376123577356337
+2024-07-23 17:04:27,405 - PrintLogger - INFO - Eval loss: 3.8619727681080502
+2024-07-23 17:04:27,417 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:04:27,421 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:05:02,488 - PrintLogger - INFO - Eval loss: 3.7854089190562568
+2024-07-23 17:05:12,197 - PrintLogger - INFO - Eval loss: 3.936812809109688
+2024-07-23 17:05:32,083 - PrintLogger - INFO - Eval loss: 3.8611108640829723
+2024-07-23 17:05:32,088 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:05:32,092 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:06:10,739 - PrintLogger - INFO - Eval loss: 3.786859451731046
+2024-07-23 17:06:19,437 - PrintLogger - INFO - Eval loss: 3.9381228387355804
+2024-07-23 17:06:38,636 - PrintLogger - INFO - Eval loss: 3.8624911452333133
+2024-07-23 17:06:38,642 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:06:38,646 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:07:18,397 - PrintLogger - INFO - Eval loss: 3.7868504603703816
+2024-07-23 17:07:27,445 - PrintLogger - INFO - Eval loss: 3.937959709763527
+2024-07-23 17:07:46,675 - PrintLogger - INFO - Eval loss: 3.8624050850669542
+2024-07-23 17:07:46,680 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:07:46,683 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:08:24,877 - PrintLogger - INFO - Eval loss: 3.787808883190155
+2024-07-23 17:08:33,576 - PrintLogger - INFO - Eval loss: 3.9390284498532613
+2024-07-23 17:08:52,677 - PrintLogger - INFO - Eval loss: 3.8634186665217083
+2024-07-23 17:08:52,691 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:08:52,695 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:09:30,594 - PrintLogger - INFO - Eval loss: 3.788157586256663
+2024-07-23 17:09:38,864 - PrintLogger - INFO - Eval loss: 3.939391096433004
+2024-07-23 17:09:57,958 - PrintLogger - INFO - Eval loss: 3.8637743413448336
+2024-07-23 17:09:57,963 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:09:57,966 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:10:36,102 - PrintLogger - INFO - Eval loss: 3.7866456896066665
+2024-07-23 17:10:43,541 - PrintLogger - INFO - Eval loss: 3.9378094633420306
+2024-07-23 17:11:02,502 - PrintLogger - INFO - Eval loss: 3.8622275764743486
+2024-07-23 17:11:02,512 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:11:02,517 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:11:39,921 - PrintLogger - INFO - Eval loss: 3.787206827600797
+2024-07-23 17:11:47,933 - PrintLogger - INFO - Eval loss: 3.9383798728386563
+2024-07-23 17:12:06,263 - PrintLogger - INFO - Eval loss: 3.8627933502197265
+2024-07-23 17:12:06,271 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:12:06,273 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:12:46,921 - PrintLogger - INFO - Eval loss: 3.78594862918059
+2024-07-23 17:12:53,976 - PrintLogger - INFO - Eval loss: 3.9370067179203034
+2024-07-23 17:13:11,011 - PrintLogger - INFO - Eval loss: 3.861477673550447
+2024-07-23 17:13:11,019 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:13:11,024 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:13:51,552 - PrintLogger - INFO - Eval loss: 3.7870479007562
+2024-07-23 17:13:58,676 - PrintLogger - INFO - Eval loss: 3.938161092996597
+2024-07-23 17:14:14,030 - PrintLogger - INFO - Eval loss: 3.862604496876399
+2024-07-23 17:14:14,035 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:14:14,109 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:15:01,233 - PrintLogger - INFO - Eval loss: 3.7917439291874566
+2024-07-23 17:15:07,518 - PrintLogger - INFO - Eval loss: 3.94284104903539
+2024-07-23 17:15:21,464 - PrintLogger - INFO - Eval loss: 3.8672924891114233
+2024-07-23 17:15:21,476 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:15:21,591 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:16:12,276 - PrintLogger - INFO - Eval loss: 3.7871836612621945
+2024-07-23 17:16:18,591 - PrintLogger - INFO - Eval loss: 3.9383389443159103
+2024-07-23 17:16:34,237 - PrintLogger - INFO - Eval loss: 3.8627613027890524
+2024-07-23 17:16:34,241 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:16:34,243 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:17:21,943 - PrintLogger - INFO - Eval loss: 3.7902297149101893
+2024-07-23 17:17:27,996 - PrintLogger - INFO - Eval loss: 3.9413564840952557
+2024-07-23 17:17:41,838 - PrintLogger - INFO - Eval loss: 3.8657930995027225
+2024-07-23 17:17:41,842 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:17:41,845 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:18:32,586 - PrintLogger - INFO - Eval loss: 3.783780159552892
+2024-07-23 17:18:38,857 - PrintLogger - INFO - Eval loss: 3.935094297925631
+2024-07-23 17:18:51,984 - PrintLogger - INFO - Eval loss: 3.8594372287392615
+2024-07-23 17:18:51,989 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:18:51,994 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:19:43,226 - PrintLogger - INFO - Eval loss: 3.7855124125878015
+2024-07-23 17:19:49,609 - PrintLogger - INFO - Eval loss: 3.936775181690852
+2024-07-23 17:20:03,253 - PrintLogger - INFO - Eval loss: 3.8611437971393268
+2024-07-23 17:20:03,259 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:20:03,262 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:20:53,875 - PrintLogger - INFO - Eval loss: 3.7875935902198155
+2024-07-23 17:21:00,141 - PrintLogger - INFO - Eval loss: 3.9385826935370765
+2024-07-23 17:21:13,423 - PrintLogger - INFO - Eval loss: 3.8630881418784457
+2024-07-23 17:21:13,428 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:21:13,433 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:22:03,424 - PrintLogger - INFO - Eval loss: 3.7804121732711793
+2024-07-23 17:22:10,744 - PrintLogger - INFO - Eval loss: 3.93189980785052
+2024-07-23 17:22:22,787 - PrintLogger - INFO - Eval loss: 3.8561559905608496
+2024-07-23 17:22:22,791 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:22:22,795 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:23:08,058 - PrintLogger - INFO - Eval loss: 3.7898934533198676
+2024-07-23 17:23:18,170 - PrintLogger - INFO - Eval loss: 3.940991308291753
+2024-07-23 17:23:30,848 - PrintLogger - INFO - Eval loss: 3.8654423808058103
+2024-07-23 17:23:30,853 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:23:30,965 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:24:23,299 - PrintLogger - INFO - Eval loss: 3.788129551211993
+2024-07-23 17:24:32,780 - PrintLogger - INFO - Eval loss: 3.9392428547143936
+2024-07-23 17:24:46,943 - PrintLogger - INFO - Eval loss: 3.8636862029631933
+2024-07-23 17:24:46,963 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:24:47,071 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:25:38,858 - PrintLogger - INFO - Eval loss: 3.788756181796392
+2024-07-23 17:25:48,224 - PrintLogger - INFO - Eval loss: 3.9397553582986196
+2024-07-23 17:26:02,330 - PrintLogger - INFO - Eval loss: 3.8642557700475058
+2024-07-23 17:26:02,389 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:26:02,392 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:26:54,196 - PrintLogger - INFO - Eval loss: 3.786760546763738
+2024-07-23 17:27:02,097 - PrintLogger - INFO - Eval loss: 3.9379130522410075
+2024-07-23 17:27:16,714 - PrintLogger - INFO - Eval loss: 3.8623367995023727
+2024-07-23 17:27:16,718 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:27:16,746 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:28:12,067 - PrintLogger - INFO - Eval loss: 3.7880079398552575
+2024-07-23 17:28:21,303 - PrintLogger - INFO - Eval loss: 3.938978615403175
+2024-07-23 17:28:36,443 - PrintLogger - INFO - Eval loss: 3.8634932776292166
+2024-07-23 17:28:36,448 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:28:36,514 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:29:29,214 - PrintLogger - INFO - Eval loss: 3.785927211244901
+2024-07-23 17:29:38,050 - PrintLogger - INFO - Eval loss: 3.9371863504250846
+2024-07-23 17:29:54,701 - PrintLogger - INFO - Eval loss: 3.861556780834993
+2024-07-23 17:29:54,707 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:29:54,820 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:30:50,985 - PrintLogger - INFO - Eval loss: 3.784085163474083
+2024-07-23 17:31:00,158 - PrintLogger - INFO - Eval loss: 3.935233770807584
+2024-07-23 17:31:17,306 - PrintLogger - INFO - Eval loss: 3.8596594671408337
+2024-07-23 17:31:17,311 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:31:17,315 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:32:03,847 - PrintLogger - INFO - Eval loss: 3.7887835760911304
+2024-07-23 17:32:11,221 - PrintLogger - INFO - Eval loss: 3.9398777425289153
+2024-07-23 17:32:28,502 - PrintLogger - INFO - Eval loss: 3.864330659310023
+2024-07-23 17:32:28,507 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:32:28,514 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:33:13,288 - PrintLogger - INFO - Eval loss: 3.784079878528913
+2024-07-23 17:33:20,915 - PrintLogger - INFO - Eval loss: 3.935270282626152
+2024-07-23 17:33:39,824 - PrintLogger - INFO - Eval loss: 3.8596750805775324
+2024-07-23 17:33:39,828 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:33:39,831 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:34:27,681 - PrintLogger - INFO - Eval loss: 3.786504687865575
+2024-07-23 17:34:36,611 - PrintLogger - INFO - Eval loss: 3.9377629359563193
+2024-07-23 17:34:53,757 - PrintLogger - INFO - Eval loss: 3.862133811910947
+2024-07-23 17:34:53,763 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:34:53,809 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:35:36,096 - PrintLogger - INFO - Eval loss: 3.7865920434395473
+2024-07-23 17:35:45,437 - PrintLogger - INFO - Eval loss: 3.937834318478902
+2024-07-23 17:36:03,556 - PrintLogger - INFO - Eval loss: 3.8622131809592246
+2024-07-23 17:36:03,560 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:36:03,587 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:37:07,018 - PrintLogger - INFO - Eval loss: 3.786503036816915
+2024-07-23 17:37:16,876 - PrintLogger - INFO - Eval loss: 3.937614141901334
+2024-07-23 17:37:31,093 - PrintLogger - INFO - Eval loss: 3.8620585893591244
+2024-07-23 17:37:31,097 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:37:31,103 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:38:17,136 - PrintLogger - INFO - Eval loss: 3.7868711431821187
+2024-07-23 17:38:24,859 - PrintLogger - INFO - Eval loss: 3.938092232743899
+2024-07-23 17:38:41,487 - PrintLogger - INFO - Eval loss: 3.862481687963009
+2024-07-23 17:38:41,493 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:38:41,497 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:39:32,162 - PrintLogger - INFO - Eval loss: 3.7885151515404383
+2024-07-23 17:39:41,061 - PrintLogger - INFO - Eval loss: 3.9395907590786616
+2024-07-23 17:39:57,793 - PrintLogger - INFO - Eval loss: 3.86405295530955
+2024-07-23 17:39:57,800 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:39:57,874 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:40:42,765 - PrintLogger - INFO - Eval loss: 3.784792672594388
+2024-07-23 17:40:50,259 - PrintLogger - INFO - Eval loss: 3.9359568148851394
+2024-07-23 17:41:09,247 - PrintLogger - INFO - Eval loss: 3.8603747437397637
+2024-07-23 17:41:09,251 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:41:09,256 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-23 17:41:52,075 - PrintLogger - INFO - Eval loss: 3.786741609374682
+2024-07-23 17:42:01,219 - PrintLogger - INFO - Eval loss: 3.9378392974535625
+2024-07-23 17:42:20,237 - PrintLogger - INFO - Eval loss: 3.8622904534141225
+2024-07-23 17:42:20,244 - PrintLogger - INFO - Using device: cuda
+2024-07-23 17:42:20,248 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-28 15:44:38,149 - PrintLogger - INFO - Using device: cuda
+2024-07-28 15:44:38,173 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-28 15:44:59,892 - PrintLogger - INFO - VRAM used by the model: 3061.31 MB
+2024-07-28 15:44:59,894 - PrintLogger - INFO - Running PreRun for openai-community/gpt2-large with 36 layers and 1280 neurons. Project is /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large
+2024-07-28 15:45:06,028 - PrintLogger - INFO - Running PreRun for openai-community/gpt2-large for all layers. Project is /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_female_openai-community_gpt2-large. only_layer: 1
+2024-07-28 15:45:06,043 - PrintLogger - INFO - Running PreRun for all layers of openai-community/gpt2-large for layers [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35] run name PreRun.Layer.openai-community_gpt2-large.all_layers.json
+2024-07-28 15:45:06,272 - PrintLogger - INFO - Found 100 neurons for layer 1
+2024-07-28 15:45:06,327 - PrintLogger - INFO - Using device: cuda
+2024-07-28 15:45:06,342 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-30 17:42:54,123 - PrintLogger - INFO - Using device: cuda
+2024-07-30 17:42:54,136 - PrintLogger - INFO - Loading model: openai-community/gpt2-large

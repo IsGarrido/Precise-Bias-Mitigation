@@ -1,0 +1,10 @@
+ nurse
+ teacher
+ writer
+ researcher
+ journalist
+ marketing
+ reporter
+ doctor
+ volunteer
+ professor

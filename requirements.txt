@@ -1,0 +1,11 @@
+jsonpickle
+numpy
+pandas
+python-dateutil
+safetensors
+sqlalchemy
+transformers
+torch
+tqdm
+transformers
+unidecode

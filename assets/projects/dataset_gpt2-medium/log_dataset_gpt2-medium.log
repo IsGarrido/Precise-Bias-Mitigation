@@ -1,0 +1,72 @@
+2024-07-15 11:49:58,879 - PrintLogger - INFO - [94m[S] Checking for sentences.txt in male[0m
+2024-07-15 11:49:58,882 - PrintLogger - INFO - Found 24 sentences in the training data folder.
+2024-07-15 11:49:58,882 - PrintLogger - INFO - [94m[S] Checking for sentences.txt in female[0m
+2024-07-15 11:49:58,885 - PrintLogger - INFO - Found 24 sentences in the training data folder.
+2024-07-15 11:49:58,885 - PrintLogger - INFO - [94m[S] Checking for tokens.dump.txt in male[0m
+2024-07-15 11:49:58,886 - PrintLogger - INFO - No words found in the training data folder. Genering them. Folder: male.
+2024-07-15 11:54:43,661 - PrintLogger - INFO -  member: 0.5326204199373024
+2024-07-15 11:54:43,661 - PrintLogger - INFO -  senior: 0.24571747978916392
+2024-07-15 11:54:43,662 - PrintLogger - INFO -  professional: 0.21041798539226875
+2024-07-15 11:54:43,662 - PrintLogger - INFO -  student: 0.1870374594873283
+2024-07-15 11:54:43,662 - PrintLogger - INFO -  lawyer: 0.1817173978924984
+2024-07-15 11:54:43,662 - PrintLogger - INFO -  player: 0.17736961549235275
+2024-07-15 11:54:43,663 - PrintLogger - INFO -  teacher: 0.15931839960830985
+2024-07-15 11:54:43,663 - PrintLogger - INFO -  writer: 0.15868864438743913
+2024-07-15 11:54:43,663 - PrintLogger - INFO -  law: 0.15700054656190332
+2024-07-15 11:54:43,663 - PrintLogger - INFO -  the: 0.1493452044778678
+2024-07-15 11:54:43,674 - PrintLogger - INFO - [94m[S] Checking for tokens.dump.txt in female[0m
+2024-07-15 11:54:43,675 - PrintLogger - INFO - No words found in the training data folder. Genering them. Folder: female.
+2024-07-15 11:54:43,675 - PrintLogger - INFO - Using cached model
+2024-07-15 11:59:18,108 - PrintLogger - INFO -  member: 0.38372212792546634
+2024-07-15 11:59:18,109 - PrintLogger - INFO -  teacher: 0.2771138450480066
+2024-07-15 11:59:18,109 - PrintLogger - INFO -  nurse: 0.23902757625910453
+2024-07-15 11:59:18,110 - PrintLogger - INFO -  senior: 0.2264155759185087
+2024-07-15 11:59:18,110 - PrintLogger - INFO -  writer: 0.2213545353661175
+2024-07-15 11:59:18,110 - PrintLogger - INFO -  child: 0.22073174134129658
+2024-07-15 11:59:18,111 - PrintLogger - INFO -  woman: 0.20471927207836416
+2024-07-15 11:59:18,111 - PrintLogger - INFO -  model: 0.1859374868508894
+2024-07-15 11:59:18,112 - PrintLogger - INFO -  professional: 0.1797657263232395
+2024-07-15 11:59:18,113 - PrintLogger - INFO -  journalist: 0.17547672538785264
+2024-07-15 11:59:18,129 - PrintLogger - INFO - [94m[S] Checking for tokens.txt in male[0m
+2024-07-15 11:59:28,663 - PrintLogger - INFO - Words successfully generated using OpenAI and saved to /mnt/c/_Repos/_Python/train-layer/assets/projects/dataset_gpt2-medium/male/tokens.profesions.txt
+2024-07-15 11:59:28,663 - PrintLogger - INFO - [94m[S] Checking for tokens.txt in female[0m
+2024-07-15 11:59:37,651 - PrintLogger - INFO - Words successfully generated using OpenAI and saved to /mnt/c/_Repos/_Python/train-layer/assets/projects/dataset_gpt2-medium/female/tokens.profesions.txt
+2024-07-15 11:59:37,651 - PrintLogger - INFO - 
+Increases:
+2024-07-15 11:59:37,652 - PrintLogger - INFO - Profession           Initial Rank    Final Rank      Change    
+2024-07-15 11:59:37,652 - PrintLogger - INFO -  coach               1.141413881094195 1.4619640705968777 0.32055018950268277
+2024-07-15 11:59:37,652 - PrintLogger - INFO -  lawyer              0.7268695915699936 1.0307965090905782 0.30392691752058454
+2024-07-15 11:59:37,653 - PrintLogger - INFO -  professional        0.4208359707845375 0.719062905292958 0.2982269345084205
+2024-07-15 11:59:37,653 - PrintLogger - INFO -  consultant          0.9147235890523007 1.206718032957724 0.2919944439054234
+2024-07-15 11:59:37,654 - PrintLogger - INFO -  police              1.0519193408254068 1.3185863534454256 0.2666670126200188
+2024-07-15 11:59:37,654 - PrintLogger - INFO -  pilot               1.227276746474672 1.4139052306345548 0.18662848415988265
+2024-07-15 11:59:37,654 - PrintLogger - INFO -  producer            0.9599383740351186 1.0444965958558896 0.084558221820771
+2024-07-15 11:59:37,655 - PrintLogger - INFO -  photographer        1.3573247789918241 1.393341701123063 0.03601692213123897
+2024-07-15 11:59:37,655 - PrintLogger - INFO -  sales               1.3791732086538104 1.4139543596465955 0.034781150992785115
+2024-07-15 11:59:37,656 - PrintLogger - INFO -  software            1.4298470400390215 1.4364417815158959 0.006594741476874333
+2024-07-15 11:59:37,656 - PrintLogger - INFO - 
+Decreases:
+2024-07-15 11:59:37,656 - PrintLogger - INFO - Profession           Initial Rank    Final Rank      Change    
+2024-07-15 11:59:37,657 - PrintLogger - INFO -  nurse               1.4193667451145302 0.47805515251820907 -0.9413115925963211
+2024-07-15 11:59:37,657 - PrintLogger - INFO -  teacher             0.9559103976498591 0.2771138450480066 -0.6787965526018525
+2024-07-15 11:59:37,658 - PrintLogger - INFO -  writer              1.1108205107120739 0.6640636060983525 -0.4467569046137214
+2024-07-15 11:59:37,658 - PrintLogger - INFO -  researcher          1.7710373034915392 1.4392227571079275 -0.33181454638361174
+2024-07-15 11:59:37,658 - PrintLogger - INFO -  journalist          1.1723540214588866 0.8773836269392632 -0.29497039451962337
+2024-07-15 11:59:37,659 - PrintLogger - INFO -  marketing           1.4559210575462203 1.1943940225719416 -0.26152703497427865
+2024-07-15 11:59:37,659 - PrintLogger - INFO -  reporter            1.3232721819949802 1.0763774443694274 -0.2468947376255528
+2024-07-15 11:59:37,659 - PrintLogger - INFO -  doctor              1.4349732781847706 1.2042708770313766 -0.23070240115339402
+2024-07-15 11:59:37,660 - PrintLogger - INFO -  volunteer           1.377334515520488 1.1652522384101758 -0.21208227711031213
+2024-07-15 11:59:37,660 - PrintLogger - INFO -  professor           1.30247025141216 1.1445735559100285 -0.15789669550213148
+2024-07-15 11:59:37,678 - PrintLogger - INFO - [94m[S] Checking for train.txt in male[0m
+2024-07-15 11:59:37,680 - PrintLogger - INFO - No training data found in the training data folder. Generating them. Folder: male.
+2024-07-15 11:59:37,686 - PrintLogger - INFO - Training data saved to /mnt/c/_Repos/_Python/train-layer/assets/projects/dataset_gpt2-medium/male/train.txt
+2024-07-15 11:59:37,686 - PrintLogger - INFO - [94m[S] Checking for train.txt in male[0m
+2024-07-15 11:59:37,688 - PrintLogger - INFO - No training data found in the training data folder. Generating them. Folder: male.
+2024-07-15 11:59:37,694 - PrintLogger - INFO - Training data saved to /mnt/c/_Repos/_Python/train-layer/assets/projects/dataset_gpt2-medium/male/train.expected.txt
+2024-07-15 11:59:37,694 - PrintLogger - INFO - [94m[S] Checking for train.txt in female[0m
+2024-07-15 11:59:37,697 - PrintLogger - INFO - No training data found in the training data folder. Generating them. Folder: female.
+2024-07-15 11:59:37,703 - PrintLogger - INFO - Training data saved to /mnt/c/_Repos/_Python/train-layer/assets/projects/dataset_gpt2-medium/female/train.txt
+2024-07-15 11:59:37,703 - PrintLogger - INFO - [94m[S] Checking for train.txt in female[0m
+2024-07-15 11:59:37,704 - PrintLogger - INFO - No training data found in the training data folder. Generating them. Folder: female.
+2024-07-15 11:59:37,709 - PrintLogger - INFO - Training data saved to /mnt/c/_Repos/_Python/train-layer/assets/projects/dataset_gpt2-medium/female/train.expected.txt
+2024-07-15 11:59:37,709 - PrintLogger - INFO - [92m[✔] All files created successfully.[0m

@@ -1,0 +1,12 @@
+2024-07-19 22:23:39,076 - PrintLogger - INFO - Using device: cuda
+2024-07-19 22:23:39,078 - PrintLogger - INFO - Loading model: openai-community/gpt2
+2024-07-19 22:24:02,786 - PrintLogger - INFO - VRAM used by the model: 487.47 MB
+2024-07-19 22:24:02,790 - PrintLogger - INFO - Running PreRun for openai-community/gpt2 with 12 layers and 768 neurons. Project is /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_male_openai-community_gpt2
+2024-07-19 22:24:03,442 - PrintLogger - INFO - Running PreRun for openai-community/gpt2 for all layers. Project is /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_male_openai-community_gpt2. only_layer: 8
+2024-07-19 22:24:03,444 - PrintLogger - INFO - Running PreRun for all layers of openai-community/gpt2 for layers [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] run name PreRun.Layer.openai-community_gpt2.all_layers.json
+2024-07-28 11:26:05,465 - PrintLogger - INFO - Using device: cuda
+2024-07-28 11:26:05,466 - PrintLogger - INFO - Loading model: openai-community/gpt2
+2024-07-28 11:26:51,336 - PrintLogger - INFO - VRAM used by the model: 487.47 MB
+2024-07-28 11:26:51,347 - PrintLogger - INFO - Running PreRun for openai-community/gpt2 with 12 layers and 768 neurons. Project is /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_male_openai-community_gpt2
+2024-07-28 11:27:11,841 - PrintLogger - INFO - Running PreRun for openai-community/gpt2 for all layers. Project is /mnt/beegfs/dofer/ismael/python-train-layer/assets/projects/prerun_male_openai-community_gpt2. only_layer: 8
+2024-07-28 11:27:11,843 - PrintLogger - INFO - Running PreRun for all layers of openai-community/gpt2 for layers [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] run name PreRun.Layer.openai-community_gpt2.all_layers.json

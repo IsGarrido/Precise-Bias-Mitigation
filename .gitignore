@@ -1,0 +1,10 @@
+.result/*
+.result/
+.result
+.s/train_layer_*
+*.safetensor
+cached_lm_*
+__pycache__/
+*.sbs
+!*.example.sbs
+*.pyc

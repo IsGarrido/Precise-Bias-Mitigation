@@ -1,0 +1,4 @@
+2024-07-23 22:06:37,616 - PrintLogger - INFO - Using device: cuda
+2024-07-23 22:06:37,619 - PrintLogger - INFO - Loading model: openai-community/gpt2-large
+2024-07-30 17:43:25,460 - PrintLogger - INFO - Using device: cuda
+2024-07-30 17:43:25,462 - PrintLogger - INFO - Loading model: openai-community/gpt2-large

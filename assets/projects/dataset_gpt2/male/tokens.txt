@@ -1,0 +1,10 @@
+ lawyer
+ freelance
+ journalist
+ bartender
+ deputy
+ photographer
+ business
+ volunteer
+ professor
+ medical
